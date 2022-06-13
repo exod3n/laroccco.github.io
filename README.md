@@ -49,7 +49,7 @@
                         <i class="fab fa-github"></i>
                         Github
                     </a>
-                    <a href="https://vk.com/augustlovee" target="_blank">
+                    <a href="https:https://vk.com/ohhjosters" target="_blank">
                         <i class="fab fa-vk"></i>
                         VK
                     </a>
